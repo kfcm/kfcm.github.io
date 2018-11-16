@@ -1,0 +1,5 @@
+
+# Jekyll specific stuff
+!.gitignore
+_site/
+.jekyll-metadata
